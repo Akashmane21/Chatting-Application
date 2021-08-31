@@ -102,6 +102,7 @@ function Authform() {
             {isLogin ? (
               <center>
                 {" "}
+                {/* eslint-disable-next-line */}
                 <h4></h4>
 
                 <h2>-- Sign in --</h2>
@@ -109,6 +110,7 @@ function Authform() {
             ) : (
               <center>
                 {" "}
+                {/* eslint-disable-next-line */}
                 <h4></h4>
                 <h2>-- Sign up --</h2>
               </center>

@@ -1,7 +1,6 @@
 import React from "react";
 import '../Css/Auth.scss'
 // import firebase from '../Config/Config'
-import Particles from "react-tsparticles";
 import Authform from "../Components/Authform/Authform";
 
 export default function Auth() {
